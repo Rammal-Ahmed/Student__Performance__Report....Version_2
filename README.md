@@ -1,6 +1,6 @@
 # Student__Performance__Report....Version_2
 
-A Python project that turns subject marks into a clear student performance summary.
+A Python project that turns subject marks into a clear student performance summary
 
 ## Overview
 
